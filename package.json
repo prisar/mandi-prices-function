@@ -4,7 +4,7 @@
   "description": "Serverless function for updating manding prices",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
   },
   "repository": {
     "type": "git",
