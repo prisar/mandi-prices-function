@@ -1,0 +1,18 @@
+{
+  "name": "mandi-prices-function",
+  "version": "1.0.0",
+  "description": "Serverless function for updating manding prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prisar/mandi-prices-function.git"
+  },
+  "keywords": [
+    "serverless"
+  ],
+  "author": "prisar",
+  "license": "ISC"
+}
